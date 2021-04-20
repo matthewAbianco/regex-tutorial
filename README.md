@@ -4,7 +4,6 @@
 
 ## Summary
 
-Briefly summarize the regex you will be describing and what you will explain. Include a code snippet of the regex. Replace this text with your summary.
 Hello and welcome to my Regex breakdown of a email Regex. This piece of code `/^([a-z0-9_\.-]+)@([\da-z\.-]+)\.([a-z\.]{2,6})$/` can actually be used to help us 
 search for data within a certain set of paramaters. In this case, someones email address. By the time you are done, this `/^([a-z0-9_\.-]+)@([\da-z\.-]+)\.([a-z\.]{2,6})$/`  
 will make perfect sense. Enjoy!
