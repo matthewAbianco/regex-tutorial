@@ -1,6 +1,4 @@
-# Title (replace with your title)
-
-Regex for Email explained 
+# Regex for Email explained 
 
 `/^([a-z0-9_\.-]+)@([\da-z\.-]+)\.([a-z\.]{2,6})$/`
 
